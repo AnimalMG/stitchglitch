@@ -1,5 +1,7 @@
 # [AnimalMG]'s Digital Portfolio - [School Year]
 
+(avatar)https://readyplayer.me/gallery/65e644be3f080f9a6dbef3a6-LJS7dWjpeg
+
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
 
